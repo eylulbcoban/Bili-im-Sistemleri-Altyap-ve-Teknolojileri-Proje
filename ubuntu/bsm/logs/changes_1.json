@@ -1,0 +1,16 @@
+{"event_type": "created", "file_path": "/home/ubuntu/bsm/test/test1.txt", "timestamp": "2024-12-19 15:55:16"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-19 15:55:16"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test/test1.txt", "timestamp": "2024-12-19 15:55:16"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-19 15:55:16"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test/test1.txt", "timestamp": "2024-12-19 15:55:22"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-19 15:55:22"}
+{"event_type": "deleted", "file_path": "/home/ubuntu/bsm/test/test1.txt", "timestamp": "2024-12-19 15:55:27"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-19 15:55:27"}
+{"event_type": "created", "file_path": "/home/ubuntu/bsm/test/test2.txt", "timestamp": "2024-12-19 15:56:49"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-19 15:56:49"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test/test2.txt", "timestamp": "2024-12-19 15:56:49"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-19 15:56:49"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test/test2.txt", "timestamp": "2024-12-19 15:56:55"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-19 15:56:55"}
+{"event_type": "deleted", "file_path": "/home/ubuntu/bsm/test/test2.txt", "timestamp": "2024-12-19 15:57:00"}
+{"event_type": "modified", "file_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-19 15:57:00"}
